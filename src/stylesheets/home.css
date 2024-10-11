@@ -1,0 +1,16 @@
+/* home.css */
+
+/* This makes sure the content wraps properly for smaller devices */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  @media (max-width: 768px) {
+    /* Mobile styles */
+    .ant-col {
+      flex-direction: column;
+      width: 100%;
+    }
+  }
+  
