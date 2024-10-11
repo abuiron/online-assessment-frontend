@@ -36,7 +36,7 @@ This frontend communicates with the backend API to handle user authentication, e
 ## Live Demo
 
 The live version of the frontend is hosted at:
-**[Live Frontend Link](https://your-frontend-live-link.com)**
+**[Live Frontend Link](https://online-assessment-portal.netlify.app)**
 
 ## Backend Repository
 
