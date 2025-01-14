@@ -8,12 +8,12 @@ The live version of the frontend is hosted at:
 **[Live Web App Link](https://online-assessment-portal.netlify.app)**
 
 ## Login Page 
- ![loginpage](https://github.com/abuiron/online-assessment-frontend/blob/main/public/assets/login.png?raw=true)
+ ![loginpage](https://github.com/abuiron/online-assessment-frontend/blob/main/public/login.png?raw=true)
 
 ## Home Page
- ![Homepage](https://github.com/abuiron/online-assessment-frontend/blob/main/public/assets/front.png?raw=true)
+ ![Homepage](https://github.com/abuiron/online-assessment-frontend/blob/main/public/front.png?raw=true)
 
- 
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
