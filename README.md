@@ -2,6 +2,18 @@
 
 This repository contains the frontend code for the **Online Assessment Platform**, a comprehensive web application for managing and taking online exams. The platform provides functionalities for creating, managing, and participating in exams, with features like multiple question types, manual or automatic question selection, and more.
 
+## Live Link
+
+The live version of the frontend is hosted at:
+**[Live Web App Link](https://online-assessment-portal.netlify.app)**
+
+## Login Page 
+ ![loginpage](https://github.com/abuiron/online-assessment-frontend/blob/main/public/assets/login.png?raw=true)
+
+## Home Page
+ ![Homepage](https://github.com/abuiron/online-assessment-frontend/blob/main/public/assets/front.png?raw=true)
+
+ 
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -32,11 +44,6 @@ This frontend communicates with the backend API to handle user authentication, e
 - **Real-time Communication**: Interacts seamlessly with the backend API to provide real-time data updates.
 - **CRUD Operations**: Complete Create, Read, Update, Delete functionalities for exams and questions.
 - **Advanced Exam Settings**: Configure pass marks, negative marking, and time limits for each exam.
-
-## Live Demo
-
-The live version of the frontend is hosted at:
-**[Live Frontend Link](https://online-assessment-portal.netlify.app)**
 
 ## Backend Repository
 
